@@ -98,14 +98,7 @@ public class Main_test {
 
 //		// Fichero de entrada
 //		String input = args[1];
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_500.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_1000.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_15000.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_30000.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_500_set_get.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_1000_set_get.dat";
-		//String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_15000_set_get.dat";
-		String input = "C:\\Users\\josem\\Eclipse\\eped2022\\test_set_get\\test_30000_set_get.dat";
+		String input = "your_path_of_.dat";
 //		if ( !checkInput(input) ) { return; }	
 //		
 //		// Fichero de salida
